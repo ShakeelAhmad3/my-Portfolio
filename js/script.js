@@ -1,6 +1,6 @@
 (function($){
     var typed = new Typed('span.txt-rotate', {
-        strings: ["I'm Software Engineer", "I'm a Web Developer", "I'm a Graphic Designer"],
+        strings: ["I'm Software Engineer", "I'm a Web Developer", "I'm a WordPress Developer"],
         typeSpeed: 100,
         backSpeed: 100,
         fadeOut: false,
